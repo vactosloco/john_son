@@ -9,3 +9,8 @@ p {
 li {
     color: blue;
 }
+
+ul {
+    display: flex;
+    justify-content: space-between;
+}
