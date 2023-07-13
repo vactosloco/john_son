@@ -6,6 +6,11 @@ p {
     background-color: grey;
 }
 
-body {
-    background-color: #f1f1f1;
+li {
+    color: blue;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
 }
